@@ -1,0 +1,11 @@
+{
+  "appId": "es.ritmoatletismo.app",
+  "appName": "RitmoAtletismo",
+  "webDir": "www",
+  "server": {
+    "url": "https://ritmoatletismo.netlify.app/",
+    "androidScheme": "https",
+    "allowNavigation": ["ritmoatletismo.netlify.app", "*.supabase.co"]
+  },
+  "android": { "allowMixedContent": false }
+}
